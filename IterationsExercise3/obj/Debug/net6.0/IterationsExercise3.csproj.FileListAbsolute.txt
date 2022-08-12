@@ -1,0 +1,15 @@
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\bin\Debug\net6.0\IterationsExercise3.exe
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\bin\Debug\net6.0\IterationsExercise3.deps.json
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\bin\Debug\net6.0\IterationsExercise3.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\bin\Debug\net6.0\IterationsExercise3.dll
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\bin\Debug\net6.0\IterationsExercise3.pdb
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.dll
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\refint\IterationsExercise3.dll
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.pdb
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\IterationsExercise3.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\IterationsExercise3\IterationsExercise3\IterationsExercise3\obj\Debug\net6.0\ref\IterationsExercise3.dll
